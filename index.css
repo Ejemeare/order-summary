@@ -92,9 +92,9 @@ button{
     color: black;
     font-weight: bold;
 }
-.attribution { font-size: 11px; 
+.attribution { 
+    font-size: 11px; 
     text-align: center;
-    display:flex;
-    justify-content:baseline;
+    padding: 50px;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
